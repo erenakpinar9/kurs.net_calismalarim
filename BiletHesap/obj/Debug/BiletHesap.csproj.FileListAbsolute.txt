@@ -1,0 +1,11 @@
+C:\Users\160315032\source\repos\BiletHesap\bin\Debug\BiletHesap.exe.config
+C:\Users\160315032\source\repos\BiletHesap\bin\Debug\BiletHesap.exe
+C:\Users\160315032\source\repos\BiletHesap\bin\Debug\BiletHesap.pdb
+C:\Users\160315032\source\repos\BiletHesap\obj\Debug\BiletHesap.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\BiletHesap\obj\Debug\BiletHesap.Login.resources
+C:\Users\160315032\source\repos\BiletHesap\obj\Debug\BiletHesap.Properties.Resources.resources
+C:\Users\160315032\source\repos\BiletHesap\obj\Debug\BiletHesap.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\BiletHesap\obj\Debug\BiletHesap.csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\BiletHesap\obj\Debug\BiletHesap.exe
+C:\Users\160315032\source\repos\BiletHesap\obj\Debug\BiletHesap.pdb
+C:\Users\160315032\source\repos\BiletHesap\obj\Debug\BiletHesap.BiletSatış.resources
