@@ -1,0 +1,9 @@
+C:\Users\160315032\source\repos\denemeDoWhile\bin\Debug\denemeDoWhile.exe.config
+C:\Users\160315032\source\repos\denemeDoWhile\bin\Debug\denemeDoWhile.exe
+C:\Users\160315032\source\repos\denemeDoWhile\bin\Debug\denemeDoWhile.pdb
+C:\Users\160315032\source\repos\denemeDoWhile\obj\Debug\denemeDoWhile.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\denemeDoWhile\obj\Debug\denemeDoWhile.Form1.resources
+C:\Users\160315032\source\repos\denemeDoWhile\obj\Debug\denemeDoWhile.Properties.Resources.resources
+C:\Users\160315032\source\repos\denemeDoWhile\obj\Debug\denemeDoWhile.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\denemeDoWhile\obj\Debug\denemeDoWhile.exe
+C:\Users\160315032\source\repos\denemeDoWhile\obj\Debug\denemeDoWhile.pdb

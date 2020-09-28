@@ -1,0 +1,8 @@
+C:\Users\160315032\source\repos\denemeProje\bin\Debug\denemeProje.exe.config
+C:\Users\160315032\source\repos\denemeProje\bin\Debug\denemeProje.exe
+C:\Users\160315032\source\repos\denemeProje\bin\Debug\denemeProje.pdb
+C:\Users\160315032\source\repos\denemeProje\obj\Debug\denemeProje.Form1.resources
+C:\Users\160315032\source\repos\denemeProje\obj\Debug\denemeProje.Properties.Resources.resources
+C:\Users\160315032\source\repos\denemeProje\obj\Debug\denemeProje.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\denemeProje\obj\Debug\denemeProje.exe
+C:\Users\160315032\source\repos\denemeProje\obj\Debug\denemeProje.pdb

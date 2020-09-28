@@ -1,0 +1,10 @@
+C:\Users\160315032\source\repos\denemeMetod\bin\Debug\denemeMetod.exe.config
+C:\Users\160315032\source\repos\denemeMetod\bin\Debug\denemeMetod.exe
+C:\Users\160315032\source\repos\denemeMetod\bin\Debug\denemeMetod.pdb
+C:\Users\160315032\source\repos\denemeMetod\obj\Debug\denemeMetod.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\denemeMetod\obj\Debug\denemeMetod.Form1.resources
+C:\Users\160315032\source\repos\denemeMetod\obj\Debug\denemeMetod.Properties.Resources.resources
+C:\Users\160315032\source\repos\denemeMetod\obj\Debug\denemeMetod.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\denemeMetod\obj\Debug\denemeMetod.csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\denemeMetod\obj\Debug\denemeMetod.exe
+C:\Users\160315032\source\repos\denemeMetod\obj\Debug\denemeMetod.pdb

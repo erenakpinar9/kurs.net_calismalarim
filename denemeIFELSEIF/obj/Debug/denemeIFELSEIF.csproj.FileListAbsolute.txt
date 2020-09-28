@@ -1,0 +1,10 @@
+C:\Users\160315032\source\repos\denemeIFELSEIF\bin\Debug\denemeIFELSEIF.exe.config
+C:\Users\160315032\source\repos\denemeIFELSEIF\bin\Debug\denemeIFELSEIF.exe
+C:\Users\160315032\source\repos\denemeIFELSEIF\bin\Debug\denemeIFELSEIF.pdb
+C:\Users\160315032\source\repos\denemeIFELSEIF\obj\Debug\denemeIFELSEIF.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\denemeIFELSEIF\obj\Debug\denemeIFELSEIF.Form1.resources
+C:\Users\160315032\source\repos\denemeIFELSEIF\obj\Debug\denemeIFELSEIF.Properties.Resources.resources
+C:\Users\160315032\source\repos\denemeIFELSEIF\obj\Debug\denemeIFELSEIF.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\denemeIFELSEIF\obj\Debug\denemeIFELSEIF.csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\denemeIFELSEIF\obj\Debug\denemeIFELSEIF.exe
+C:\Users\160315032\source\repos\denemeIFELSEIF\obj\Debug\denemeIFELSEIF.pdb

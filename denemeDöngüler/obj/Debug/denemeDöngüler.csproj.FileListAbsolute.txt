@@ -1,0 +1,8 @@
+C:\Users\160315032\source\repos\denemeDöngüler\bin\Debug\denemeDöngüler.exe.config
+C:\Users\160315032\source\repos\denemeDöngüler\bin\Debug\denemeDöngüler.exe
+C:\Users\160315032\source\repos\denemeDöngüler\bin\Debug\denemeDöngüler.pdb
+C:\Users\160315032\source\repos\denemeDöngüler\obj\Debug\denemeDöngüler.Form1.resources
+C:\Users\160315032\source\repos\denemeDöngüler\obj\Debug\denemeDöngüler.Properties.Resources.resources
+C:\Users\160315032\source\repos\denemeDöngüler\obj\Debug\denemeDöngüler.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\denemeDöngüler\obj\Debug\denemeDöngüler.exe
+C:\Users\160315032\source\repos\denemeDöngüler\obj\Debug\denemeDöngüler.pdb

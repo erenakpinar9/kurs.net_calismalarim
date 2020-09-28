@@ -1,0 +1,10 @@
+C:\Users\160315032\source\repos\dersÖrnek2\bin\Debug\dersÖrnek2.exe.config
+C:\Users\160315032\source\repos\dersÖrnek2\bin\Debug\dersÖrnek2.exe
+C:\Users\160315032\source\repos\dersÖrnek2\bin\Debug\dersÖrnek2.pdb
+C:\Users\160315032\source\repos\dersÖrnek2\obj\Debug\dersÖrnek2.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\dersÖrnek2\obj\Debug\dersÖrnek2.Form1.resources
+C:\Users\160315032\source\repos\dersÖrnek2\obj\Debug\dersÖrnek2.Properties.Resources.resources
+C:\Users\160315032\source\repos\dersÖrnek2\obj\Debug\dersÖrnek2.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\dersÖrnek2\obj\Debug\dersÖrnek2.csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\dersÖrnek2\obj\Debug\dersÖrnek2.exe
+C:\Users\160315032\source\repos\dersÖrnek2\obj\Debug\dersÖrnek2.pdb

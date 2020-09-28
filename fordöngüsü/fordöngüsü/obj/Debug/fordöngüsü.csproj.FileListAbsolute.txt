@@ -1,0 +1,9 @@
+C:\Users\160315032\source\repos\fordöngüsü\fordöngüsü\bin\Debug\fordöngüsü.exe.config
+C:\Users\160315032\source\repos\fordöngüsü\fordöngüsü\bin\Debug\fordöngüsü.exe
+C:\Users\160315032\source\repos\fordöngüsü\fordöngüsü\bin\Debug\fordöngüsü.pdb
+C:\Users\160315032\source\repos\fordöngüsü\fordöngüsü\obj\Debug\fordöngüsü.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\fordöngüsü\fordöngüsü\obj\Debug\fordöngüsü.Form1.resources
+C:\Users\160315032\source\repos\fordöngüsü\fordöngüsü\obj\Debug\fordöngüsü.Properties.Resources.resources
+C:\Users\160315032\source\repos\fordöngüsü\fordöngüsü\obj\Debug\fordöngüsü.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\fordöngüsü\fordöngüsü\obj\Debug\fordöngüsü.exe
+C:\Users\160315032\source\repos\fordöngüsü\fordöngüsü\obj\Debug\fordöngüsü.pdb

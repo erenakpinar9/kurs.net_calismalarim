@@ -1,0 +1,10 @@
+C:\Users\160315032\source\repos\denemeHesap\bin\Debug\denemeHesap.exe.config
+C:\Users\160315032\source\repos\denemeHesap\bin\Debug\denemeHesap.exe
+C:\Users\160315032\source\repos\denemeHesap\bin\Debug\denemeHesap.pdb
+C:\Users\160315032\source\repos\denemeHesap\obj\Debug\denemeHesap.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\denemeHesap\obj\Debug\denemeHesap.Properties.Resources.resources
+C:\Users\160315032\source\repos\denemeHesap\obj\Debug\denemeHesap.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\denemeHesap\obj\Debug\denemeHesap.csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\denemeHesap\obj\Debug\denemeHesap.exe
+C:\Users\160315032\source\repos\denemeHesap\obj\Debug\denemeHesap.pdb
+C:\Users\160315032\source\repos\denemeHesap\obj\Debug\denemeHesap.DHesapMakinesi.resources

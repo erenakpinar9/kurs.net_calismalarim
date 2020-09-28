@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "denemeSinif", "denemeSinif.csproj", "{6ED7A8B0-9066-4640-BEBC-D481D375B846}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SinemaSalon", "..\SinemaSalon\SinemaSalon.vdproj", "{71E83748-E605-47B2-AC55-59DA8127CF28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED7A8B0-9066-4640-BEBC-D481D375B846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED7A8B0-9066-4640-BEBC-D481D375B846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED7A8B0-9066-4640-BEBC-D481D375B846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED7A8B0-9066-4640-BEBC-D481D375B846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E83748-E605-47B2-AC55-59DA8127CF28}.Debug|Any CPU.ActiveCfg = Debug
+		{71E83748-E605-47B2-AC55-59DA8127CF28}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA965EF8-647B-4402-A0DE-1DE299BEEADD}
+	EndGlobalSection
+EndGlobal

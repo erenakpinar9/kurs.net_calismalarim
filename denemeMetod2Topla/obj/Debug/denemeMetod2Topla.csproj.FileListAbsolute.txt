@@ -1,0 +1,9 @@
+C:\Users\160315032\source\repos\denemeMetod2Topla\bin\Debug\denemeMetod2Topla.exe.config
+C:\Users\160315032\source\repos\denemeMetod2Topla\bin\Debug\denemeMetod2Topla.exe
+C:\Users\160315032\source\repos\denemeMetod2Topla\bin\Debug\denemeMetod2Topla.pdb
+C:\Users\160315032\source\repos\denemeMetod2Topla\obj\Debug\denemeMetod2Topla.Form1.resources
+C:\Users\160315032\source\repos\denemeMetod2Topla\obj\Debug\denemeMetod2Topla.Properties.Resources.resources
+C:\Users\160315032\source\repos\denemeMetod2Topla\obj\Debug\denemeMetod2Topla.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\denemeMetod2Topla\obj\Debug\denemeMetod2Topla.csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\denemeMetod2Topla\obj\Debug\denemeMetod2Topla.exe
+C:\Users\160315032\source\repos\denemeMetod2Topla\obj\Debug\denemeMetod2Topla.pdb

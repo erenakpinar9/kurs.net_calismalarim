@@ -1,0 +1,10 @@
+C:\Users\160315032\source\repos\denemeString2\bin\Debug\denemeString2.exe.config
+C:\Users\160315032\source\repos\denemeString2\bin\Debug\denemeString2.exe
+C:\Users\160315032\source\repos\denemeString2\bin\Debug\denemeString2.pdb
+C:\Users\160315032\source\repos\denemeString2\obj\Debug\denemeString2.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\denemeString2\obj\Debug\denemeString2.Form1.resources
+C:\Users\160315032\source\repos\denemeString2\obj\Debug\denemeString2.Properties.Resources.resources
+C:\Users\160315032\source\repos\denemeString2\obj\Debug\denemeString2.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\denemeString2\obj\Debug\denemeString2.csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\denemeString2\obj\Debug\denemeString2.exe
+C:\Users\160315032\source\repos\denemeString2\obj\Debug\denemeString2.pdb

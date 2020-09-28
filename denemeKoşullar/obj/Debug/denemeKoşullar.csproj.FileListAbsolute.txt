@@ -1,0 +1,9 @@
+C:\Users\160315032\source\repos\denemeKoşullar\bin\Debug\denemeKoşullar.exe.config
+C:\Users\160315032\source\repos\denemeKoşullar\bin\Debug\denemeKoşullar.exe
+C:\Users\160315032\source\repos\denemeKoşullar\bin\Debug\denemeKoşullar.pdb
+C:\Users\160315032\source\repos\denemeKoşullar\obj\Debug\denemeKoşullar.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\denemeKoşullar\obj\Debug\denemeKoşullar.Form1.resources
+C:\Users\160315032\source\repos\denemeKoşullar\obj\Debug\denemeKoşullar.Properties.Resources.resources
+C:\Users\160315032\source\repos\denemeKoşullar\obj\Debug\denemeKoşullar.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\denemeKoşullar\obj\Debug\denemeKoşullar.exe
+C:\Users\160315032\source\repos\denemeKoşullar\obj\Debug\denemeKoşullar.pdb

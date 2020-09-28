@@ -1,0 +1,9 @@
+C:\Users\160315032\source\repos\denemeDörtİşlem\bin\Debug\denemeDörtİşlem.exe.config
+C:\Users\160315032\source\repos\denemeDörtİşlem\bin\Debug\denemeDörtİşlem.exe
+C:\Users\160315032\source\repos\denemeDörtİşlem\bin\Debug\denemeDörtİşlem.pdb
+C:\Users\160315032\source\repos\denemeDörtİşlem\obj\Debug\denemeDörtİşlem.Form1.resources
+C:\Users\160315032\source\repos\denemeDörtİşlem\obj\Debug\denemeDörtİşlem.Properties.Resources.resources
+C:\Users\160315032\source\repos\denemeDörtİşlem\obj\Debug\denemeDörtİşlem.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\denemeDörtİşlem\obj\Debug\denemeDörtİşlem.exe
+C:\Users\160315032\source\repos\denemeDörtİşlem\obj\Debug\denemeDörtİşlem.pdb
+C:\Users\160315032\source\repos\denemeDörtİşlem\obj\Debug\denemeDörtİşlem.csprojAssemblyReference.cache

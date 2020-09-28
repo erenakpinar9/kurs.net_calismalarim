@@ -1,0 +1,10 @@
+C:\Users\160315032\source\repos\dersÖrnekKDVHesaplama\bin\Debug\dersÖrnekKDVHesaplama.exe.config
+C:\Users\160315032\source\repos\dersÖrnekKDVHesaplama\bin\Debug\dersÖrnekKDVHesaplama.exe
+C:\Users\160315032\source\repos\dersÖrnekKDVHesaplama\bin\Debug\dersÖrnekKDVHesaplama.pdb
+C:\Users\160315032\source\repos\dersÖrnekKDVHesaplama\obj\Debug\dersÖrnekKDVHesaplama.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\dersÖrnekKDVHesaplama\obj\Debug\dersÖrnekKDVHesaplama.Form1.resources
+C:\Users\160315032\source\repos\dersÖrnekKDVHesaplama\obj\Debug\dersÖrnekKDVHesaplama.Properties.Resources.resources
+C:\Users\160315032\source\repos\dersÖrnekKDVHesaplama\obj\Debug\dersÖrnekKDVHesaplama.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\dersÖrnekKDVHesaplama\obj\Debug\dersÖrnekKDVHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\dersÖrnekKDVHesaplama\obj\Debug\dersÖrnekKDVHesaplama.exe
+C:\Users\160315032\source\repos\dersÖrnekKDVHesaplama\obj\Debug\dersÖrnekKDVHesaplama.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "denemeDoWhile2", "denemeDoWhile2.csproj", "{AF4B3DDE-E7B1-4CF4-9BAC-7C49C626C7B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF4B3DDE-E7B1-4CF4-9BAC-7C49C626C7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4B3DDE-E7B1-4CF4-9BAC-7C49C626C7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4B3DDE-E7B1-4CF4-9BAC-7C49C626C7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4B3DDE-E7B1-4CF4-9BAC-7C49C626C7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD7A257C-1556-49E7-B665-360A18881FE0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\160315032\source\repos\denemeForDöngü\bin\Debug\denemeForDöngü.exe.config
+C:\Users\160315032\source\repos\denemeForDöngü\bin\Debug\denemeForDöngü.exe
+C:\Users\160315032\source\repos\denemeForDöngü\bin\Debug\denemeForDöngü.pdb
+C:\Users\160315032\source\repos\denemeForDöngü\obj\Debug\denemeForDöngü.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\denemeForDöngü\obj\Debug\denemeForDöngü.Form1.resources
+C:\Users\160315032\source\repos\denemeForDöngü\obj\Debug\denemeForDöngü.Properties.Resources.resources
+C:\Users\160315032\source\repos\denemeForDöngü\obj\Debug\denemeForDöngü.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\denemeForDöngü\obj\Debug\denemeForDöngü.exe
+C:\Users\160315032\source\repos\denemeForDöngü\obj\Debug\denemeForDöngü.pdb

@@ -1,0 +1,10 @@
+C:\Users\160315032\source\repos\denemeSinif\bin\Debug\denemeSinif.exe.config
+C:\Users\160315032\source\repos\denemeSinif\bin\Debug\denemeSinif.exe
+C:\Users\160315032\source\repos\denemeSinif\bin\Debug\denemeSinif.pdb
+C:\Users\160315032\source\repos\denemeSinif\obj\Debug\denemeSinemaSalon.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\denemeSinif\obj\Debug\denemeSinif.Form1.resources
+C:\Users\160315032\source\repos\denemeSinif\obj\Debug\denemeSinif.Properties.Resources.resources
+C:\Users\160315032\source\repos\denemeSinif\obj\Debug\denemeSinemaSalon.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\denemeSinif\obj\Debug\denemeSinemaSalon.csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\denemeSinif\obj\Debug\denemeSinif.exe
+C:\Users\160315032\source\repos\denemeSinif\obj\Debug\denemeSinif.pdb

@@ -1,0 +1,9 @@
+C:\Users\160315032\source\repos\denemeIF-ELSE\bin\Debug\denemeIF-ELSE.exe.config
+C:\Users\160315032\source\repos\denemeIF-ELSE\bin\Debug\denemeIF-ELSE.exe
+C:\Users\160315032\source\repos\denemeIF-ELSE\bin\Debug\denemeIF-ELSE.pdb
+C:\Users\160315032\source\repos\denemeIF-ELSE\obj\Debug\denemeIF-ELSE.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\denemeIF-ELSE\obj\Debug\denemeIF_ELSE.Form1.resources
+C:\Users\160315032\source\repos\denemeIF-ELSE\obj\Debug\denemeIF_ELSE.Properties.Resources.resources
+C:\Users\160315032\source\repos\denemeIF-ELSE\obj\Debug\denemeIF-ELSE.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\denemeIF-ELSE\obj\Debug\denemeIF-ELSE.exe
+C:\Users\160315032\source\repos\denemeIF-ELSE\obj\Debug\denemeIF-ELSE.pdb

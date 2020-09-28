@@ -1,0 +1,9 @@
+C:\Users\160315032\source\repos\denemeLoginGibiBirşey\bin\Debug\denemeLoginGibiBirşey.exe.config
+C:\Users\160315032\source\repos\denemeLoginGibiBirşey\bin\Debug\denemeLoginGibiBirşey.exe
+C:\Users\160315032\source\repos\denemeLoginGibiBirşey\bin\Debug\denemeLoginGibiBirşey.pdb
+C:\Users\160315032\source\repos\denemeLoginGibiBirşey\obj\Debug\denemeLoginGibiBirşey.Form1.resources
+C:\Users\160315032\source\repos\denemeLoginGibiBirşey\obj\Debug\denemeLoginGibiBirşey.Properties.Resources.resources
+C:\Users\160315032\source\repos\denemeLoginGibiBirşey\obj\Debug\denemeLoginGibiBirşey.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\denemeLoginGibiBirşey\obj\Debug\denemeLoginGibiBirşey.csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\denemeLoginGibiBirşey\obj\Debug\denemeLoginGibiBirşey.exe
+C:\Users\160315032\source\repos\denemeLoginGibiBirşey\obj\Debug\denemeLoginGibiBirşey.pdb

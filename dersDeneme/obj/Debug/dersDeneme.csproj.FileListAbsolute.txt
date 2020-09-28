@@ -1,0 +1,9 @@
+C:\Users\160315032\source\repos\dersDeneme\bin\Debug\dersDeneme.exe.config
+C:\Users\160315032\source\repos\dersDeneme\bin\Debug\dersDeneme.exe
+C:\Users\160315032\source\repos\dersDeneme\bin\Debug\dersDeneme.pdb
+C:\Users\160315032\source\repos\dersDeneme\obj\Debug\dersDeneme.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\dersDeneme\obj\Debug\dersDeneme.Form1.resources
+C:\Users\160315032\source\repos\dersDeneme\obj\Debug\dersDeneme.Properties.Resources.resources
+C:\Users\160315032\source\repos\dersDeneme\obj\Debug\dersDeneme.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\dersDeneme\obj\Debug\dersDeneme.exe
+C:\Users\160315032\source\repos\dersDeneme\obj\Debug\dersDeneme.pdb

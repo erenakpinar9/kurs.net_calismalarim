@@ -1,0 +1,9 @@
+C:\Users\160315032\source\repos\DiziÖrnek2\bin\Debug\DiziÖrnek2.exe.config
+C:\Users\160315032\source\repos\DiziÖrnek2\bin\Debug\DiziÖrnek2.exe
+C:\Users\160315032\source\repos\DiziÖrnek2\bin\Debug\DiziÖrnek2.pdb
+C:\Users\160315032\source\repos\DiziÖrnek2\obj\Debug\DiziÖrnek2.Form1.resources
+C:\Users\160315032\source\repos\DiziÖrnek2\obj\Debug\DiziÖrnek2.Properties.Resources.resources
+C:\Users\160315032\source\repos\DiziÖrnek2\obj\Debug\DiziÖrnek2.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\DiziÖrnek2\obj\Debug\DiziÖrnek2.csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\DiziÖrnek2\obj\Debug\DiziÖrnek2.exe
+C:\Users\160315032\source\repos\DiziÖrnek2\obj\Debug\DiziÖrnek2.pdb

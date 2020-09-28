@@ -1,0 +1,9 @@
+C:\Users\160315032\source\repos\denemeSwitch\bin\Debug\denemeSwitch.exe.config
+C:\Users\160315032\source\repos\denemeSwitch\bin\Debug\denemeSwitch.exe
+C:\Users\160315032\source\repos\denemeSwitch\bin\Debug\denemeSwitch.pdb
+C:\Users\160315032\source\repos\denemeSwitch\obj\Debug\denemeSwitch.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\denemeSwitch\obj\Debug\denemeSwitch.Form1.resources
+C:\Users\160315032\source\repos\denemeSwitch\obj\Debug\denemeSwitch.Properties.Resources.resources
+C:\Users\160315032\source\repos\denemeSwitch\obj\Debug\denemeSwitch.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\denemeSwitch\obj\Debug\denemeSwitch.exe
+C:\Users\160315032\source\repos\denemeSwitch\obj\Debug\denemeSwitch.pdb

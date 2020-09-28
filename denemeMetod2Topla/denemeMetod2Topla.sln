@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "denemeMetod2Topla", "denemeMetod2Topla.csproj", "{F912A643-2515-429F-87DA-92A85E4FEE37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F912A643-2515-429F-87DA-92A85E4FEE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F912A643-2515-429F-87DA-92A85E4FEE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F912A643-2515-429F-87DA-92A85E4FEE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F912A643-2515-429F-87DA-92A85E4FEE37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62E467C7-5148-4595-B5EF-1856AFD9F137}
+	EndGlobalSection
+EndGlobal
