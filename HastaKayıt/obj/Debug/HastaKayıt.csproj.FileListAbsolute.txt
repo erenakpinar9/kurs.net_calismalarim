@@ -1,0 +1,10 @@
+C:\Users\160315032\source\repos\HastaKayıt\bin\Debug\HastaKayıt.exe.config
+C:\Users\160315032\source\repos\HastaKayıt\bin\Debug\HastaKayıt.exe
+C:\Users\160315032\source\repos\HastaKayıt\bin\Debug\HastaKayıt.pdb
+C:\Users\160315032\source\repos\HastaKayıt\obj\Debug\HastaKayıt.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\HastaKayıt\obj\Debug\HastaKayıt.Form1.resources
+C:\Users\160315032\source\repos\HastaKayıt\obj\Debug\HastaKayıt.Properties.Resources.resources
+C:\Users\160315032\source\repos\HastaKayıt\obj\Debug\HastaKayıt.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\HastaKayıt\obj\Debug\HastaKayıt.csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\HastaKayıt\obj\Debug\HastaKayıt.exe
+C:\Users\160315032\source\repos\HastaKayıt\obj\Debug\HastaKayıt.pdb

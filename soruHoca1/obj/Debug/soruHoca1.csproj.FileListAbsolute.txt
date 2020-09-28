@@ -1,0 +1,10 @@
+C:\Users\160315032\source\repos\soruHoca1\bin\Debug\soruHoca1.exe.config
+C:\Users\160315032\source\repos\soruHoca1\bin\Debug\soruHoca1.exe
+C:\Users\160315032\source\repos\soruHoca1\bin\Debug\soruHoca1.pdb
+C:\Users\160315032\source\repos\soruHoca1\obj\Debug\soruHoca1.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\soruHoca1\obj\Debug\soruHoca1.Form1.resources
+C:\Users\160315032\source\repos\soruHoca1\obj\Debug\soruHoca1.Properties.Resources.resources
+C:\Users\160315032\source\repos\soruHoca1\obj\Debug\soruHoca1.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\soruHoca1\obj\Debug\soruHoca1.csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\soruHoca1\obj\Debug\soruHoca1.exe
+C:\Users\160315032\source\repos\soruHoca1\obj\Debug\soruHoca1.pdb

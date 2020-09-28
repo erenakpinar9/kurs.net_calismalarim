@@ -1,0 +1,10 @@
+C:\Users\160315032\source\repos\sehirlerForm\bin\Debug\sehirlerForm.exe.config
+C:\Users\160315032\source\repos\sehirlerForm\bin\Debug\sehirlerForm.exe
+C:\Users\160315032\source\repos\sehirlerForm\bin\Debug\sehirlerForm.pdb
+C:\Users\160315032\source\repos\sehirlerForm\obj\Debug\sehirlerForm.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\sehirlerForm\obj\Debug\sehirlerForm.Form1.resources
+C:\Users\160315032\source\repos\sehirlerForm\obj\Debug\sehirlerForm.Properties.Resources.resources
+C:\Users\160315032\source\repos\sehirlerForm\obj\Debug\sehirlerForm.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\sehirlerForm\obj\Debug\sehirlerForm.csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\sehirlerForm\obj\Debug\sehirlerForm.exe
+C:\Users\160315032\source\repos\sehirlerForm\obj\Debug\sehirlerForm.pdb

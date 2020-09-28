@@ -1,0 +1,9 @@
+C:\Users\160315032\source\repos\mca deneme\bin\Debug\mca deneme.exe.config
+C:\Users\160315032\source\repos\mca deneme\bin\Debug\mca deneme.exe
+C:\Users\160315032\source\repos\mca deneme\bin\Debug\mca deneme.pdb
+C:\Users\160315032\source\repos\mca deneme\obj\Debug\mca deneme.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\mca deneme\obj\Debug\mca_deneme.Form1.resources
+C:\Users\160315032\source\repos\mca deneme\obj\Debug\mca_deneme.Properties.Resources.resources
+C:\Users\160315032\source\repos\mca deneme\obj\Debug\mca deneme.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\mca deneme\obj\Debug\mca deneme.exe
+C:\Users\160315032\source\repos\mca deneme\obj\Debug\mca deneme.pdb

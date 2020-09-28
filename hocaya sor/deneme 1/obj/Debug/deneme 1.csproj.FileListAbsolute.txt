@@ -1,0 +1,19 @@
+C:\Users\DBG\source\repos\deneme 1\deneme 1\obj\Debug\deneme 1.csprojAssemblyReference.cache
+C:\Users\DBG\source\repos\deneme 1\deneme 1\obj\Debug\deneme_1.Form1.resources
+C:\Users\DBG\source\repos\deneme 1\deneme 1\obj\Debug\deneme_1.Properties.Resources.resources
+C:\Users\DBG\source\repos\deneme 1\deneme 1\obj\Debug\deneme 1.csproj.GenerateResource.cache
+C:\Users\DBG\source\repos\deneme 1\deneme 1\bin\Debug\deneme 1.exe.config
+C:\Users\DBG\source\repos\deneme 1\deneme 1\bin\Debug\deneme 1.exe
+C:\Users\DBG\source\repos\deneme 1\deneme 1\bin\Debug\deneme 1.pdb
+C:\Users\DBG\source\repos\deneme 1\deneme 1\obj\Debug\deneme 1.exe
+C:\Users\DBG\source\repos\deneme 1\deneme 1\obj\Debug\deneme 1.pdb
+C:\Users\160315032\source\repos\hocaya sor\deneme 1\bin\Debug\deneme 1.exe.config
+C:\Users\160315032\source\repos\hocaya sor\deneme 1\bin\Debug\deneme 1.exe
+C:\Users\160315032\source\repos\hocaya sor\deneme 1\bin\Debug\deneme 1.pdb
+C:\Users\160315032\source\repos\hocaya sor\deneme 1\obj\Debug\deneme 1.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\hocaya sor\deneme 1\obj\Debug\deneme_1.Form1.resources
+C:\Users\160315032\source\repos\hocaya sor\deneme 1\obj\Debug\deneme_1.Properties.Resources.resources
+C:\Users\160315032\source\repos\hocaya sor\deneme 1\obj\Debug\deneme 1.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\hocaya sor\deneme 1\obj\Debug\deneme 1.exe
+C:\Users\160315032\source\repos\hocaya sor\deneme 1\obj\Debug\deneme 1.pdb
+C:\Users\160315032\source\repos\hocaya sor\deneme 1\obj\Debug\deneme 1.csproj.CoreCompileInputs.cache

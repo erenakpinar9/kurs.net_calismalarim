@@ -1,0 +1,10 @@
+C:\Users\160315032\source\repos\SinemaÖrneği2\obj\Debug\SinemaÖrneği2.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\SinemaÖrneği2\obj\Debug\SinemaÖrneği.Form1.resources
+C:\Users\160315032\source\repos\SinemaÖrneği2\obj\Debug\SinemaÖrneği2.Properties.Resources.resources
+C:\Users\160315032\source\repos\SinemaÖrneği2\obj\Debug\SinemaÖrneği2.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\SinemaÖrneği2\obj\Debug\SinemaÖrneği2.csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\SinemaÖrneği2\bin\Debug\SinemaÖrneği2.exe.config
+C:\Users\160315032\source\repos\SinemaÖrneği2\bin\Debug\SinemaÖrneği2.exe
+C:\Users\160315032\source\repos\SinemaÖrneği2\bin\Debug\SinemaÖrneği2.pdb
+C:\Users\160315032\source\repos\SinemaÖrneği2\obj\Debug\SinemaÖrneği2.exe
+C:\Users\160315032\source\repos\SinemaÖrneği2\obj\Debug\SinemaÖrneği2.pdb

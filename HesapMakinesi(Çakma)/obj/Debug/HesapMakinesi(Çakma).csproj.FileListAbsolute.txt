@@ -1,0 +1,10 @@
+C:\Users\160315032\source\repos\HesapMakinesi(Çakma)\bin\Debug\HesapMakinesi(Çakma).exe.config
+C:\Users\160315032\source\repos\HesapMakinesi(Çakma)\bin\Debug\HesapMakinesi(Çakma).exe
+C:\Users\160315032\source\repos\HesapMakinesi(Çakma)\bin\Debug\HesapMakinesi(Çakma).pdb
+C:\Users\160315032\source\repos\HesapMakinesi(Çakma)\obj\Debug\HesapMakinesi(Çakma).csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\HesapMakinesi(Çakma)\obj\Debug\HesapMakinesi_Çakma_.Form1.resources
+C:\Users\160315032\source\repos\HesapMakinesi(Çakma)\obj\Debug\HesapMakinesi_Çakma_.Properties.Resources.resources
+C:\Users\160315032\source\repos\HesapMakinesi(Çakma)\obj\Debug\HesapMakinesi(Çakma).csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\HesapMakinesi(Çakma)\obj\Debug\HesapMakinesi(Çakma).csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\HesapMakinesi(Çakma)\obj\Debug\HesapMakinesi(Çakma).exe
+C:\Users\160315032\source\repos\HesapMakinesi(Çakma)\obj\Debug\HesapMakinesi(Çakma).pdb

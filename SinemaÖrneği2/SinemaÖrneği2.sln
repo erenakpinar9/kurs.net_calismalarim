@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinemaÖrneği2", "SinemaÖrneği2.csproj", "{43FE24DC-E642-4901-AF17-659E0457DEC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43FE24DC-E642-4901-AF17-659E0457DEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FE24DC-E642-4901-AF17-659E0457DEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FE24DC-E642-4901-AF17-659E0457DEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FE24DC-E642-4901-AF17-659E0457DEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB0C7AAC-54E2-43E9-B847-479F50774B7F}
+	EndGlobalSection
+EndGlobal
