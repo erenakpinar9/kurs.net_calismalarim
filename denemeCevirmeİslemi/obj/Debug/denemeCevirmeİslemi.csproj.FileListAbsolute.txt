@@ -1,0 +1,10 @@
+C:\Users\160315032\source\repos\denemeCevirmeİslemi\bin\Debug\denemeCevirmeİslemi.exe.config
+C:\Users\160315032\source\repos\denemeCevirmeİslemi\bin\Debug\denemeCevirmeİslemi.exe
+C:\Users\160315032\source\repos\denemeCevirmeİslemi\bin\Debug\denemeCevirmeİslemi.pdb
+C:\Users\160315032\source\repos\denemeCevirmeİslemi\obj\Debug\denemeCevirmeİslemi.csprojAssemblyReference.cache
+C:\Users\160315032\source\repos\denemeCevirmeİslemi\obj\Debug\denemeCevirmeİslemi.Form1.resources
+C:\Users\160315032\source\repos\denemeCevirmeİslemi\obj\Debug\denemeCevirmeİslemi.Properties.Resources.resources
+C:\Users\160315032\source\repos\denemeCevirmeİslemi\obj\Debug\denemeCevirmeİslemi.csproj.GenerateResource.cache
+C:\Users\160315032\source\repos\denemeCevirmeİslemi\obj\Debug\denemeCevirmeİslemi.csproj.CoreCompileInputs.cache
+C:\Users\160315032\source\repos\denemeCevirmeİslemi\obj\Debug\denemeCevirmeİslemi.exe
+C:\Users\160315032\source\repos\denemeCevirmeİslemi\obj\Debug\denemeCevirmeİslemi.pdb
